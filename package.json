@@ -1,0 +1,17 @@
+{
+  "name": "authentication-with-JWT",
+  "version": "1.0.0",
+  "description": "showcases the usage of json web tokens to authenticate api routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "json-web-token": "^1.6.3",
+    "jsonwebtoken": "^5.5.4"
+  }
+}
